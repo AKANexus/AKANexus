@@ -21,3 +21,5 @@
 	- Udemy - Abril/2020
 - Full Stack MVVM (.NET Core) - Financial Trading Application Course (12h)
 	- [SingletonSean - YouTube](https://www.youtube.com/channel/UC7X9mQ_XtTYWzr9Tf_NYcIg)
+- The Ultimate Guide to Game Development with Unity (Official) (Em curso)
+- 	- Udemy 
