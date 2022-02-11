@@ -24,4 +24,4 @@
 - The Ultimate Guide to Game Development with Unity (Official) (21h)
 - 	- Udemy - Abril/Dezembro2021
 - Flutter & Dart - The Complete Guide 2022 Edition (Em curso)
-- 	- Udemy - 
+- 	- Udemy
