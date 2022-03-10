@@ -15,7 +15,7 @@
 	 - Suite de módulos para aplicativo ERP. Atualmente em desenvolvimento.
  - **AmbiPDV**
 	 - Aplicativo de frente de caixa, com emissão de CFe, uso de TEF e impressão térmica em diferentes impressoras homologadas, podendo ser usada *in tandem* com **AmbiStore** ou com plataformas ERP online, como o [Bling](https://www.bling.com.br/)
- - **AmbiLog**
+ - **Log Control**
  	- Aplicativo para Android para controle logístico de coleta de clientes do Mercado Flex (Mercado Livre).
 
 ### Cursos
