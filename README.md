@@ -24,6 +24,6 @@
 - Full Stack MVVM (.NET Core) - Financial Trading Application Course (12h)
 	- [SingletonSean - YouTube](https://www.youtube.com/channel/UC7X9mQ_XtTYWzr9Tf_NYcIg)
 - The Ultimate Guide to Game Development with Unity (Official) (21h)
-- 	- Udemy - Abril/Dezembro2021
+- 	- Udemy - Dezembro2021
 - Flutter & Dart - The Complete Guide 2022 Edition (Em curso)
 - 	- Udemy
