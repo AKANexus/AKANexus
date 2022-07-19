@@ -25,5 +25,5 @@
 	- [SingletonSean - YouTube](https://www.youtube.com/channel/UC7X9mQ_XtTYWzr9Tf_NYcIg)
 - The Ultimate Guide to Game Development with Unity (Official) (21h)
 - 	- Udemy - Dezembro/2021
-- Flutter & Dart - The Complete Guide 2022 Edition (Em curso)
-- 	- Udemy
+- Flutter & Dart - The Complete Guide 2022 Edition (42.5h)
+- 	- Udemy 
