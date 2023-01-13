@@ -1,6 +1,6 @@
 
 # Artur Sousa
-## Fullstack Developer em Trilha Tecnologia
+## Backend Developer em Trilha Tecnologia
 
 ### Projetos publicados
  - [**ControleFrota**](https://github.com/AKANexus/ControleFrota)
