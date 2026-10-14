@@ -33,13 +33,11 @@ A solução inclui componentes de sincronização com sistemas de gestão, além
 
 *Repositório privado.*
 
-### Ateliê — projeto sob medida para cliente
+### [Atelier-Vic](https://github.com/AKANexus/Atelier-Vic) — projeto sob medida para cliente
 
 Desenvolvimento de um site de portfólio com fluxo de encomendas e painel administrativo, adaptado às necessidades de um artista.
 
 **Tecnologias:** React, TypeScript, Cloudflare Pages/Functions, D1 e KV.
-
-*Repositório privado.*
 
 ## Oportunidades e contato
 
