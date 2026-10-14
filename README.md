@@ -1,29 +1,52 @@
+# Artur Sousa — Desenvolvedor Backend .NET
 
-# Artur Sousa
-## Backend Developer em Trilha Tecnologia
+Desenvolvo sistemas comerciais e aplicações web, com foco em C#/.NET, regras de negócio e integração entre sistemas. Também trabalho com React e TypeScript na construção de interfaces.
 
-### Projetos publicados
- - [**ControleFrota**](https://github.com/AKANexus/ControleFrota)
-	 - Aplicativo para controle de entrada, saída, manutenção e abastecimento de viaturas.
- -  [**ContratosMVVM**](https://github.com/AKANexus/ContratosMVVM)
-	 - Aplicativo para geração de contratos modulares no formato *.docx
- - [**CSVSerialisation**](https://github.com/AKANexus/CSVSerialisation)
-	 - Biblioteca customizada para (de)serialização de arquivos *.csv
- - [**XMLCatcher**](https://github.com/AKANexus/XMLCatcher)
-	 - Backup automático de arquivos XML para servidor FTP
- - **AmbiStore**
-	 - Suite de módulos para aplicativo ERP. Atualmente em desenvolvimento.
- - **AmbiPDV**
-	 - Aplicativo de frente de caixa, com emissão de CFe, uso de TEF e impressão térmica em diferentes impressoras homologadas, podendo ser usada *in tandem* com **AmbiStore** ou com plataformas ERP online, como o [Bling](https://www.bling.com.br/)
- - **Log Control**
- 	- Aplicativo para Android para controle logístico de coleta de clientes do Mercado Flex (Mercado Livre).
+Sou responsável pela [Trilha-Tecnologia](https://github.com/Trilha-Tecnologia), organização onde concentro parte dos meus projetos.
 
-### Cursos
-- C# Completo 2020 Programação Orientada a Objetos + Projetos (34.5h)
-	- Udemy - Abril/2020
-- Full Stack MVVM (.NET Core) - Financial Trading Application Course (12h)
-	- [SingletonSean - YouTube](https://www.youtube.com/channel/UC7X9mQ_XtTYWzr9Tf_NYcIg)
-- The Ultimate Guide to Game Development with Unity (Official) (21h)
-- 	- Udemy - Dezembro/2021
-- Flutter & Dart - The Complete Guide 2022 Edition (42.5h)
-- 	- Udemy 
+## Tecnologias principais
+
+- **Backend:** C#, .NET, ASP.NET Core e Entity Framework Core.
+- **Banco de dados:** PostgreSQL.
+- **Frontend:** React, Next.js e TypeScript.
+- **Desktop:** WPF.
+
+## Projetos selecionados
+
+### AmbiSaaS — gestão comercial e PDV integrado
+
+Plataforma de gestão comercial em desenvolvimento, com módulos de vendas, compras, estoque e operações fiscais, integrada a um PDV para Windows.
+
+Combina uma aplicação web com operação local de caixa, permitindo trabalhar offline e sincronizar dados com o servidor. A arquitetura contempla autenticação de dispositivos, separação de dados por empresa e processamento de eventos com proteção contra duplicidade.
+
+**Tecnologias:** C#, .NET 10, ASP.NET Core, Entity Framework Core, PostgreSQL, React, Next.js, TypeScript e WPF.
+
+*Projeto profissional em desenvolvimento. Repositório privado.*
+
+### AmbiPDVModular — frente de caixa e integrações comerciais
+
+Sistema de frente de caixa para Windows, organizado em módulos para operação comercial, documentos fiscais, pagamentos via TEF, impressão térmica e integração com balanças.
+
+A solução inclui componentes de sincronização com sistemas de gestão, além de módulos de auditoria, devoluções e relatórios.
+
+**Tecnologias:** C#, .NET 8, WPF, Entity Framework Core e PostgreSQL.
+
+*Repositório privado.*
+
+### Ateliê — portfólio e gestão de encomendas
+
+Aplicação para artistas apresentarem suas obras, receberem briefings e acompanharem encomendas em um painel administrativo.
+
+Combina formulários condicionais, estimativas de preço e preservação das informações utilizadas em cada orçamento. A implementação também contempla controle de edições simultâneas e notificações com novas tentativas em caso de falha.
+
+**Tecnologias:** React, TypeScript, Cloudflare Pages/Functions, D1 e KV.
+
+*Repositório privado.*
+
+## Oportunidades e contato
+
+Tenho interesse em oportunidades de desenvolvimento Backend .NET, especialmente envolvendo sistemas comerciais, APIs e integrações.
+
+Também estou aberto a conversar sobre projetos de desenvolvimento de software e integração entre sistemas.
+
+**E-mail:** [tucalipe@gmail.com](mailto:tucalipe@gmail.com)
