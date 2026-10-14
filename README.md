@@ -33,11 +33,9 @@ A solução inclui componentes de sincronização com sistemas de gestão, além
 
 *Repositório privado.*
 
-### Ateliê — portfólio e gestão de encomendas
+### Ateliê — projeto sob medida para cliente
 
-Aplicação para artistas apresentarem suas obras, receberem briefings e acompanharem encomendas em um painel administrativo.
-
-Combina formulários condicionais, estimativas de preço e preservação das informações utilizadas em cada orçamento. A implementação também contempla controle de edições simultâneas e notificações com novas tentativas em caso de falha.
+Desenvolvimento de um site de portfólio com fluxo de encomendas e painel administrativo, adaptado às necessidades de um artista.
 
 **Tecnologias:** React, TypeScript, Cloudflare Pages/Functions, D1 e KV.
 
